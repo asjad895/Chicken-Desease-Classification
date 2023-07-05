@@ -13,3 +13,4 @@ src/CDClassifier/constants/__init__.py
 src/CDClassifier/entity/__init__.py
 src/CDClassifier/pipeline/__init__.py
 src/CDClassifier/utils/__init__.py
+src/CDClassifier/utils/common.py
